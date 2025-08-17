@@ -14,16 +14,11 @@ This project simulates **neural responses with noise** and applies the **Signal 
   - Distribution of neural responses
   - ROC curve with Area Under Curve (AUC).
 
-### 📊 Example Results
-(d’ estimated: 1.95)
-
-![histogram](results/histogram.png)  
-![roc](results/roc.png)
-
 ### 🚀 How to Run
 ```bash
 pip install -r requirements.txt
-python src/main.py
+python main.py
+```
 
 ## 🌍 Português
 
@@ -39,13 +34,8 @@ Este projeto simula **respostas neurais com ruído** e aplica a **Teoria da Dete
   - Distribuição de respostas neurais
   - Curva ROC com área sob a curva (AUC)
 
-## 📊 Exemplo de Resultados
-(d’ estimado: 1.95)
-
-![histograma](results/histogram.png)
-![roc](results/roc.png)
-
 ## 🚀 Como rodar
 ```bash
 pip install -r requirements.txt
-python src/main.py
+python main.py
+```

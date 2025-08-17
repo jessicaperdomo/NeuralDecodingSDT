@@ -1,3 +1,5 @@
+import numpy as np
+
 def compute_dprime(signal_responses, noise_responses):
     mean_signal = np.mean(signal_responses)
     mean_noise = np.mean(noise_responses)
